@@ -14,7 +14,7 @@ This project involves data analysis and machine learning modeling to predict the
 
 ## 📂 Dataset
 Source : Kaggle - https://www.kaggle.com/
-The dataset contains features like:
+- The dataset contains features like:
 - Brand
 - RAM, ROM
 - Ratings
